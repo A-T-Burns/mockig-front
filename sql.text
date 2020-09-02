@@ -1,0 +1,27 @@
+{
+        name:"Mountain",
+        link:"https://ipt.imgix.net/201494/x/0/ultimate-guide-to-landscape-photography-1?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-2.3.0&w=883"
+    },
+    {
+        name:"Mountain2",
+        link:"https://images.pexels.com/photos/132037/pexels-photo-132037.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        name:"Mountain3",
+        link:"https://i.ytimg.com/vi/c7oV1T2j5mc/maxresdefault.jpg"
+    },
+    
+    {
+        name:"Mountain4",
+        link:"https://unsplash.com/photos/twukN12EN7c/download"
+    },
+    {
+        name:"Mountain5",
+        link:"https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        name:"Mountain6",
+        link:"https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    }
+
+    INSERT INTO images (name, link) VALUES ('Mountain6', 'https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500');
